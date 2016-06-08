@@ -158,7 +158,6 @@ a {
   font-size: 14px;
   display: flex !important;
   /*flex-direction: column;*/
-  max-width: 1200px;
   margin: 0 auto;
 }
 
